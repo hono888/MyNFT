@@ -1,0 +1,16 @@
+{
+  "attributes":[
+    {
+      "trait_type":"place",
+      "value":"AI 「Hybrid work テレキューブ」"
+    },
+    {
+      "trait_type":"number",
+      "value":"1"
+    }
+  ],
+  "description":"テストデータ。AI 「Hybrid work テレキューブ」",
+  "external_url":"https://jp.vcube.com/",
+  "image":"https://cdn.discordapp.com/attachments/997261020609384458/1004982656842334290/mimio_hybrid_work_9a21d56a-8e59-46b8-b244-92cfb04af184.png",
+  "name":"AI 「Hybrid work テレキューブ」"
+}
