@@ -1,0 +1,16 @@
+{
+  "attributes":[
+    {
+      "trait_type":"place",
+      "value":"セブンイレブン 飯田橋"
+    },
+    {
+      "trait_type":"number",
+      "value":"1"
+    }
+  ],
+  "description":"テストデータ。コンビニエンスストア内初、セブンイレブン飯田橋升本ビル店に個室型スマートワークブース「テレキューブ」",
+  "external_url":"https://jp.vcube.com/news/group/20201229-1500.html",
+  "image":"https://github.com/hono888/MyNFT/blob/main/telecube_seveniidabashi.jpeg?raw=true",
+  "name":"セブンイレブン 飯田橋"
+}
