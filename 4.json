@@ -1,0 +1,16 @@
+{
+  "attributes":[
+    {
+      "trait_type":"place",
+      "value":"AI 「Osaka テレキューブ」"
+    },
+    {
+      "trait_type":"number",
+      "value":"1"
+    }
+  ],
+  "description":"テストデータ。AI 「Osaka テレキューブ」",
+  "external_url":"https://jp.vcube.com/",
+  "image":"https://cdn.discordapp.com/attachments/997261020609384458/1004972738181599263/mimio_telecube_osaka_56f0ebb9-3837-4ab3-967d-2ac785ce8893.png",
+  "name":"テレキューブ Osaka"
+}
