@@ -1,47 +1,17 @@
 {
   "attributes":[
     {
-      "trait_type":"base",
-      "value":"narwhal"
+      "trait_type":"place",
+      "value":"新大阪駅"
     },
     {
-      "trait_type":"eyes",
-      "value":"sleepy"
-    },
-    {
-      "trait_type":"mouth",
-      "value":"cute"
-    },
-    {
-      "trait_type":"level",
-      "value":4
-    },
-    {
-      "trait_type":"stamina",
-      "value":90.2
-    },
-    {
-      "trait_type":"personality",
-      "value":"boring"
-    },
-    {
-      "display_type":"boost_number",
-      "trait_type":"aqua_power",
-      "value":10
-    },
-    {
-      "display_type":"boost_percentage",
-      "trait_type":"stamina_increase",
-      "value":5
-    },
-    {
-      "display_type":"number",
-      "trait_type":"generation",
-      "value":1
+      "trait_type":"number",
+      "value":"3"
     }
   ],
-  "description":"Friendly OpenSea Creature that enjoys long swims in the ocean.",
-  "external_url":"https://example.com/?token_id=3",
-  "image":"https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png",
-  "name":"Dave Starbelly"
+  "description":"テストデータ。JR新大阪駅、JR大阪駅に個室型ワークブース「テレキューブ」です！
+〜社会変容に対応した新しいライフスタイル「鉄道のある暮らし」の取り組み〜",
+  "external_url":"https://jp.vcube.com/news/group/20210416-1400.html",
+  "image":"https://github.com/hono888/MyNFT/blob/main/telecube_shinoosaka.jpeg?raw=true",
+  "name":"JR新大阪駅 テレキューブ"
 }
